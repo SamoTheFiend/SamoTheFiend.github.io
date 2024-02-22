@@ -93,7 +93,7 @@ PLATFORMS
   arm64-darwin
 
 DEPENDENCIES
-  cvless (~> 2.2)
+  cvless
 
 BUNDLED WITH
    2.4.22
