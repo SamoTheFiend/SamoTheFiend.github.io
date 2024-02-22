@@ -4,7 +4,7 @@ baseurl: ""
 url: https://github.com/SamoTheFiend
 homepage: Home Page
 
-theme: jekyll-theme-cvless
+theme: minimal
 
 # site settings
 taglong: Software Developer
