@@ -44,19 +44,18 @@ technologies such as Java, Python, Terraform, and Bash
 ## Intel Corporation 
 #### Software Engineer Intern
 `June 2017 - December 2017`
-* ·Worked on 4G LTE verification; developed simulation and performance tests to evaluate wireless net-
+* Worked on 4G LTE verification; developed simulation and performance tests to evaluate wireless net-
   work protocols and performance of Intel modem chips with various network service providers
 
 
 ## EDUCATION
-```
+
 San Diego State University August 2016 - May 2020
 B.S, Computer Science
-```
+
 ## SKILLS
-```
+
 Java, Python, C#, C/C++
 AWS, Bash, Data Structures/Algorithms, Docker, Helm
 Distributed Systems, Jenkins, Kubernetes, Maven, Oracle Cloud
 (IaaS/PaaS/SaaS), Oracle Database, SQL, Tensorflow, Terraform
-```
