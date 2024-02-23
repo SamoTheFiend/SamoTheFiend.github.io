@@ -10,7 +10,7 @@ title: CV
 ## Work Experience
 
 ## Oracle Cloud Infrastructure
-#### Software Engineer
+#### Software Engineer shet
 `September 2022 - Present`
 * Developed and maintained application and infrastructure for Oracle Cloud’s subscription service with
 technologies such as Java, Python, Terraform, and Bash
